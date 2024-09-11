@@ -41,7 +41,7 @@ Soul will be able to speak.
 ### Spatial and context-aware selfies
 With spatial awareness, we can continually reproduce Soul wherever she is and whatever she is doing.
 
-<img width="586" src="https://gist.github.com/user-attachments/assets/5cfd5874-394b-487b-b092-e2244bb6d095">
+<img width="586" alt="Spatial" src="https://github.com/user-attachments/assets/bef559a3-f570-454e-aade-ce386297fed0">
 
 ### Privacy awareness
 Your data never leaves your computer unless you specify otherwise.
