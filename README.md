@@ -1,3 +1,5 @@
+![soulgarden-ball](https://github.com/user-attachments/assets/16bef5ed-761c-42ea-be7c-ce32b377d948)
+
 # Soulgarden: The Open Source Artifical Soul Companion
 
 ## What is this?
