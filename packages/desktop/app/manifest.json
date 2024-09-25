@@ -1,0 +1,22 @@
+{
+  "background_color": "#1e2c33",
+  "description": "Soulgarden AI companion",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Soulgarden",
+  "short_name": "Soulgarden",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "ai.soulgarden"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=ai.soulgarden",
+      "id": "ai.soulgarden"
+    }
+  ],
+  "prefer_related_applications": true
+}

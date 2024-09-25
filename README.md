@@ -55,10 +55,10 @@ Although we’ve implemented an app for quick chat, ideally Soulgarden should ju
 Go to the [releases page](https://github.com/SoulGardenAI/Soulgarden/releases) to download the latest version.
 
 ### Troubleshooting
-If the app gets stuck at 100% downloading or you repeatedly get the message `I can't reply. I'm having technical issues.`, please restart the app. That might resolve the issue.
+If the app gets stuck at 100% downloading or you repeatedly get the message `I can't reply. I'm having technical issues.` then please restart the app which commonly solves the issue. 
 
-### Support
+### Supported OS
 We currently support macOS M1 and above (sorry, no x64 yet), and Windows, although Windows has not been thoroughly tested.
 
 ## Help
-You can ask for help in the [community](https://github.com/SoulGardenAI/Soulgarden/discussions)
+You can ask for help from our development team and [community](https://github.com/SoulGardenAI/Soulgarden/discussions)
