@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.76edaf95.css",
+    "main.js": "./static/js/main.a2a75ccf.js",
+    "static/js/949.3db6b82c.chunk.js": "./static/js/949.3db6b82c.chunk.js",
+    "static/js/178.67e794e3.js": "./static/js/178.67e794e3.js",
+    "static/media/whisper-webgpu_bg.wasm": "./static/media/whisper-webgpu_bg.54871d98a52f156e380f.wasm",
+    "static/media/adan.png": "./static/media/adan.70da22e81bd12a2391c9.png",
+    "static/media/eve.png": "./static/media/eve.50e9f95f6dc36ff71f3b.png",
+    "ai.png": "./ai.png",
+    "user.png": "./user.png",
+    "favicon.ico": "./favicon.ico",
+    ".DS_Store": "./.DS_Store",
+    "index.html": "./index.html",
+    "favicon-32.png": "./favicon-32.png",
+    "favicon-16.png": "./favicon-16.png",
+    "manifest.json": "./manifest.json",
+    "serve.json": "./serve.json",
+    "main.76edaf95.css.map": "./static/css/main.76edaf95.css.map",
+    "main.a2a75ccf.js.map": "./static/js/main.a2a75ccf.js.map",
+    "949.3db6b82c.chunk.js.map": "./static/js/949.3db6b82c.chunk.js.map",
+    "178.67e794e3.js.map": "./static/js/178.67e794e3.js.map"
+  },
+  "entrypoints": [
+    "static/js/178.67e794e3.js",
+    "static/css/main.76edaf95.css",
+    "static/js/main.a2a75ccf.js"
+  ]
+}
